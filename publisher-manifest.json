@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "c8263e4333d73eb89f8ca0de",
+  "owner": "qvrvvhyp",
+  "repo": "page-9362ba1c56ebecd398611925",
+  "title": "绝影飞驰",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9362ba1c56ebecd398611925",
+      "a": "绝影飞驰",
+      "b": "",
+      "entity": "绝影飞驰",
+      "brand": "绝影飞驰",
+      "separator": "",
+      "path": "index.html",
+      "hash": "63b4c3410b766456ae39f4e025c30534cb1f4c6f8862ceb422f06cb6cd578256",
+      "content": {
+        "keyword1": "绝影飞驰",
+        "keyword2": "",
+        "primary_entity": "绝影飞驰",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "绝影飞驰。短句说事。左文右栏。深棕与薄荷。会员与问答都写在这一页。",
+          "AI_DESCRIPTION": "绝影飞驰。短句说事。左文右栏。深棕与薄荷。会员与问答都写在这一页。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#2a1c14;color:#f3efe6;font-family:\"Songti SC\",\"STSong\",\"Noto Serif SC\",\"Georgia\",serif;line-height:1.55}\na{color:#7fe3c4;text-decoration:none}\nmain{display:block}\n.wrap{max-width:1100px;margin:0 auto;padding:0 18px}\n.hero{display:grid;grid-template-columns:1.15fr .85fr;gap:28px;align-items:stretch;padding:28px 18px 40px;max-width:1100px;margin:0 auto}\n.hero h1{font-size:clamp(2.4rem,7vw,4.6rem);letter-spacing:.08em;color:#d8c4b0;font-weight:700;line-height:.95;margin:12px 0 18px}\n.lead{font-size:1.05rem;max-width:28em;color:#e8ddd0}\n.anchors{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:22px;font-size:.92rem}\n.anchors a{border-bottom:1px solid #7fe3c4;padding-bottom:2px}\n.panel{background:#3a281c;border-radius:28px;box-shadow:0 18px 40px rgba(0,0,0,.28);padding:22px 22px 18px;color:#efe6da}\n.panel h2{font-size:1rem;color:#7fe3c4;margin-bottom:12px;font-weight:600}\n.panel dl{display:grid;grid-template-columns:auto 1fr;gap:8px 14px;font-size:.95rem}\n.panel dt{color:#c9b8a6}\n.panel dd{color:#f6f1ea}\n.sec{padding:36px 0}\nh2{font-size:1.45rem;color:#7fe3c4;margin-bottom:14px}\nh3{font-size:1.12rem;color:#eadccb;margin:10px 0 8px}\np,li{font-size:1rem;color:#efe8de}\n.card{background:#352418;border-radius:28px;box-shadow:0 16px 36px rgba(0,0,0,.26);padding:22px 22px 20px;margin:0 0 16px}\n.stack{display:flex;flex-direction:column;gap:14px}\n.price{font-size:1.35rem;color:#7fe3c4;margin:6px 0}\n.muted{color:#cbb9a6;font-size:.92rem}\n.mark{display:inline-block;background:#7fe3c4;color:#2a1c14;border-radius:999px;padding:2px 10px;font-size:.78rem;margin-left:8px}\nul.plain{padding-left:1.1em}\ndetails{background:#352418;border-radius:28px;box-shadow:0 12px 28px rgba(0,0,0,.22);padding:14px 18px;margin:0 0 12px}\nsummary{cursor:pointer;color:#7fe3c4;font-weight:600}\ndetails p{margin-top:8px}\n.note{font-size:.9rem;color:#cbb9a6}\nfooter{padding:28px 18px 40px;color:#b8a492;font-size:.88rem}\n@media (max-width:760px){\n.hero{grid-template-columns:1fr;padding-top:16px}\n}\n</style><main>\n<section class=\"hero\">\n<div>\n<p class=\"muted\">目录在这一屏。</p>\n<h1>绝影飞驰</h1>\n<p class=\"lead\">少说形容词。把路径写清。把价钱摊开。把疑问折叠起来，点开再读。</p>\n<nav class=\"anchors\">\n<a href=\"#how\">使用说明</a>\n<a href=\"#plans\">会员档位</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n</div>\n<aside class=\"panel\">\n<h2>当场能核对的几件事</h2>\n<dl>\n<dt>品牌</dt><dd>绝影飞驰</dd>\n<dt>页面</dt><dd>单页静态说明</dd>\n<dt>语气</dt><dd>短句。不绕。</dd>\n<dt>公开事实</dt><dd>本页未收录额外官方声明</dd>\n</dl>\n</aside>\n</section>\n\n<section class=\"wrap sec\" id=\"how\">\n<h2>使用说明</h2>\n<article class=\"card\">\n<h3>先看这一页</h3>\n<p>从上往下。锚点只跳本页。没有额外后台入口写在这里。</p>\n</article>\n<article class=\"card\">\n<h3>再对照档位</h3>\n<p>名称、月价、年付口径写在会员区。条目以该区为准。</p>\n</article>\n<article class=\"card\">\n<h3>最后谈软件</h3>\n<p>没有已核验的下载地址。不要凭空点陌生链接。</p>\n</article>\n</section>\n\n<section class=\"wrap sec\" id=\"plans\">\n<h2>会员档位</h2>\n<p class=\"note\">下列价格与条目来自参考清单，仅作本页展示。未提供可核验交易入口，不设购买链接。</p>\n<div class=\"stack\">\n<article class=\"card\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p class=\"muted\">按年付仅需 ¥150/年</p>\n<ul class=\"plain\">\n<li>每月额度：100GB</li>\n<li>同时在线：3 台设备</li>\n<li>内容访问：基础影音条目</li>\n<li>线路：普通节点池说明（无实测数据）</li>\n</ul>\n</article>\n<article class=\"card\">\n<h3>旗舰版 <span class=\"mark\">标出</span></h3>\n<p class=\"price\">¥35/月</p>\n<p class=\"muted\">按年付仅需 ¥350/年</p>\n<ul class=\"plain\">\n<li>每月额度：300GB</li>\n<li>同时在线：5 台设备</li>\n<li>内容访问：全节点影音条目（未附测试）</li>\n<li>线路：专线游戏向优化说明（无实测）</li>\n<li>工单：全周优先队列说明</li>\n</ul>\n</article>\n<article class=\"card\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p class=\"muted\">按年付仅需 ¥850/年</p>\n<ul class=\"plain\">\n<li>每月额度：1000GB</li>\n<li>同时在线：20 台设备</li>\n<li>带宽：VIP 高带宽条目（无吞吐数字）</li>\n<li>路由：可谈企业定制，细节不在本页</li>\n<li>对接：专属客户经理说明</li>\n</ul>\n</article>\n</div>\n</section>\n\n<section class=\"wrap sec\" id=\"clients\">\n<h2>客户端</h2>\n<article class=\"card\">\n<p>参考清单为空。没有可核验的安装包地址。</p>\n<p class=\"muted\">下载栏留空。链接不用假地址。</p>\n<p>需要安装时，只使用你自己已确认来源的文件。</p>\n</article>\n</section>\n\n<section class=\"wrap sec\" id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>绝影飞驰是什么？</summary>\n<p>本页是该名称的静态说明页。公开事实列表为空，不补充身份、成绩或评价。</p>\n</details>\n<details>\n<summary>怎么开始？</summary>\n<p>读使用说明。对照三档价格。软件区无下载。</p>\n</details>\n<details>\n<summary>年付怎么理解？</summary>\n<p>基础版写 ¥150/年，旗舰版写 ¥350/年，团队版写 ¥850/年。仅文字口径，无支付通道。</p>\n</details>\n<details>\n<summary>有退款或日志承诺吗？</summary>\n<p>没有。未提供的信息不写。</p>\n</details>\n</section>\n</main>\n<footer class=\"wrap\">绝影飞驰 · 单页完</footer>",
+          "hash": "10e4d1833ac5e9bb4ff5ff703454221d7e798cc24770f4c944fb6ee255d11ab7",
+          "seo": {
+            "title": "绝影飞驰",
+            "keywords": "绝影飞驰,品牌页,订阅,使用说明",
+            "description": "绝影飞驰。短句说事。左文右栏。深棕与薄荷。会员与问答都写在这一页。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "5528",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "9 深棕配薄荷",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "npyza.cn",
+    "host": "p-f8ed4cb371.npyza.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "9bc98e5d96bce70f47e46885d1a4014b6f323c0ed107b10da2690ae3190aa946",
+    "sitemap.xml": "7aa00d89678d7c378ae3e8a4c12d661e8e7e054148c84bd2a1b36b2721ccdf2d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "063647928d67a10ebde12890f0d98843c07c3d6e08017d92b682b709fd0ec2e6",
+    "robots.txt": "1000e1d70cfec47b7c114c530f06bab2b36246e9fa9899051859d5a058b30f63",
+    "fa6f4ddb290336066688d440e67a6693.txt": "5becfce777a4af72f9139dc7df48492aa0fd22c41e3dc98796b008c513a397e6"
+  },
+  "revision": "5ffd428ad6612ac747bb3dcdc1092a41111205e6abe7c494a59833ce2ac9d59e"
+}
